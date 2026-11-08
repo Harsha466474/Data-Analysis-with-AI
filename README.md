@@ -31,5 +31,3 @@ Python, Google Colab, PyTorch, Transformers, FAISS, Sentence-Transformers, Panda
 ## Dataset
 IMF Country Report No. 24/362 – Mauritania, 2024 Article IV Consultation.
 
-## Note
-The project uses locally executed open-source models without API keys. Financial outputs and LLM evaluation scores require source verification.
